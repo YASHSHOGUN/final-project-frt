@@ -15,7 +15,7 @@ This is a web based application developed for a medical service named Medic.
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
+- Has collection of many web pages including Home, About Us, Contact, depaartments pages etc.
 - User is able to book a table through the website.
 - Included the feedback Survey form to increase the scope of improvement 
 
