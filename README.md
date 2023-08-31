@@ -6,7 +6,7 @@ This is a web based application developed for a medical service named Medic.
 
 
 **Project Link** -https://icy-water-06e29dd00.3.azurestaticapps.net
-
+**Demo Link** - https://drive.google.com/file/d/1baqXZqkl3Pq5e5820FTKO8NiN8smT3Nb/view?usp=sharing
 
 
 
