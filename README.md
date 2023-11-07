@@ -1,4 +1,4 @@
-# final-project-frt
+medic
 
 This is a web based application developed for a medical service named Medic.
 
